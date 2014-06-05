@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="WindowsPhoneUI.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:WindowsPhoneUI"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <StackPanel>
+            <TextBox Text="{Binding Op1,Mode=TwoWay}"></TextBox>
+            <TextBox Text="{Binding Op2,Mode=TwoWay}"></TextBox>
+            <Button Content="Sumar" Command="{Binding CalculateCommand}"/>
+            <TextBlock Text="{Binding Result,Mode=TwoWay}" FontSize="20"></TextBlock>
+        </StackPanel>
+    </Grid>
+</Page>

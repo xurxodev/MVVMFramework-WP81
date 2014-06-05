@@ -1,0 +1,2 @@
+C:\Users\xurxo\Desktop\MVVMFrameworkExample\MVVMFramework.WP81\MVVMFramework.WP81.csproj;neutral
+C:\Users\xurxo\Desktop\MVVMFrameworkExample\WindowsPhoneUI\WindowsPhoneUI.csproj;neutral

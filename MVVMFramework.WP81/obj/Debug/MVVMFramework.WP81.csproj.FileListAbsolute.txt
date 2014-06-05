@@ -1,0 +1,16 @@
+C:\Users\xurxo\Desktop\MVVMFrameworkExample\MVVMFramework.WP81\bin\Debug\MVVMFramework.WP81.dll
+C:\Users\xurxo\Desktop\MVVMFrameworkExample\MVVMFramework.WP81\bin\Debug\MVVMFramework.WP81.pdb
+C:\Users\xurxo\Desktop\MVVMFrameworkExample\MVVMFramework.WP81\bin\Debug\MVVMFramework.WP81.pri
+C:\Users\xurxo\Desktop\MVVMFrameworkExample\MVVMFramework.WP81\obj\Debug\MVVMFramework.WP81.dll
+C:\Users\xurxo\Desktop\MVVMFrameworkExample\MVVMFramework.WP81\obj\Debug\MVVMFramework.WP81.pdb
+C:\Users\xurxo\Desktop\MVVMFrameworkExample\MVVMFramework.WP81\obj\Debug\priconfig.xml
+C:\Users\xurxo\Desktop\MVVMFrameworkExample\MVVMFramework.WP81\obj\Debug\priconfig.xml.intermediate
+C:\Users\xurxo\Desktop\MVVMFrameworkExample\MVVMFramework.WP81\obj\Debug\layout.resfiles
+C:\Users\xurxo\Desktop\MVVMFrameworkExample\MVVMFramework.WP81\obj\Debug\layout.resfiles.intermediate
+C:\Users\xurxo\Desktop\MVVMFrameworkExample\MVVMFramework.WP81\obj\Debug\resources.resfiles
+C:\Users\xurxo\Desktop\MVVMFrameworkExample\MVVMFramework.WP81\obj\Debug\resources.resfiles.intermediate
+C:\Users\xurxo\Desktop\MVVMFrameworkExample\MVVMFramework.WP81\obj\Debug\pri.resfiles
+C:\Users\xurxo\Desktop\MVVMFrameworkExample\MVVMFramework.WP81\obj\Debug\pri.resfiles.intermediate
+C:\Users\xurxo\Desktop\MVVMFrameworkExample\MVVMFramework.WP81\obj\Debug\qualifiers.txt
+C:\Users\xurxo\Desktop\MVVMFrameworkExample\MVVMFramework.WP81\obj\Debug\qualifiers.txt.intermediate
+C:\Users\xurxo\Desktop\MVVMFrameworkExample\MVVMFramework.WP81\obj\Debug\MultipleQualifiersPerDimensionFound.txt
